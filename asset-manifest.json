@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenses-A%20pp/static/css/main.399634f4.css",
+    "main.js": "/Expenses-A%20pp/static/js/main.d55ae3e1.js",
+    "index.html": "/Expenses-A%20pp/index.html",
+    "main.399634f4.css.map": "/Expenses-A%20pp/static/css/main.399634f4.css.map",
+    "main.d55ae3e1.js.map": "/Expenses-A%20pp/static/js/main.d55ae3e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399634f4.css",
+    "static/js/main.d55ae3e1.js"
+  ]
+}
