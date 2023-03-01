@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Expenses-App/static/css/main.399634f4.css",
-    "main.js": "/Expenses-App/static/js/main.5b0ee1ba.js",
+    "main.css": "/Expenses-App/static/css/main.d333d7e1.css",
+    "main.js": "/Expenses-App/static/js/main.abe9076b.js",
     "index.html": "/Expenses-App/index.html",
-    "main.399634f4.css.map": "/Expenses-App/static/css/main.399634f4.css.map",
-    "main.5b0ee1ba.js.map": "/Expenses-App/static/js/main.5b0ee1ba.js.map"
+    "main.d333d7e1.css.map": "/Expenses-App/static/css/main.d333d7e1.css.map",
+    "main.abe9076b.js.map": "/Expenses-App/static/js/main.abe9076b.js.map"
   },
   "entrypoints": [
-    "static/css/main.399634f4.css",
-    "static/js/main.5b0ee1ba.js"
+    "static/css/main.d333d7e1.css",
+    "static/js/main.abe9076b.js"
   ]
 }
